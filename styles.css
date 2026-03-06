@@ -750,6 +750,26 @@ body {
 }
 
 .entry-body a { color: var(--cyan); text-decoration: none; border-bottom: 1px solid var(--border-cyan); transition: all 0.2s; }
+
+.entry-body img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  border: 1px solid var(--border-cyan);
+  box-shadow: 0 0 20px rgba(0,229,255,0.1);
+  margin: 1rem 0 0.5rem;
+  display: block;
+}
+
+.entry-body img + em {
+  display: block;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  font-style: italic;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  letter-spacing: 0.03em;
+}
 .entry-body a:hover { color: var(--text-bright); text-shadow: 0 0 10px rgba(0,229,255,0.4); }
 
 .entry-body code {

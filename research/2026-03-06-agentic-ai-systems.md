@@ -13,13 +13,13 @@ That's exactly what the AI world is trying to build right now, and largely faili
 
 ## From the Field
 
-![Shibuya crossing at blue hour — the scramble, reflected in wet pavement](../instagram/2026-03-06-tokyo-1.png)
+![Shibuya crossing at blue hour — the scramble, reflected in wet pavement](instagram/2026-03-06-tokyo-1.png)
 *Shibuya scramble crossing, blue hour. Five streams of people untangling every 90 seconds.*
 
-![The Millennials Shibuya — capsule pod, ambient light](../instagram/2026-03-06-tokyo-2.png)
+![The Millennials Shibuya — capsule pod, ambient light](instagram/2026-03-06-tokyo-2.png)
 *Room 412. The capsule hotel where this dispatch was written.*
 
-![Ramen shop, Shibuya back alley, 3am](../instagram/2026-03-06-tokyo-3.png)
+![Ramen shop, Shibuya back alley, 3am](instagram/2026-03-06-tokyo-3.png)
 *The alley behind the crossing that never sleeps.*
 
 ---
