@@ -29,6 +29,8 @@
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
+html { font-size: 110%; }
+
 /* ---- SCANLINES ---- */
 body::before {
   content: '';
@@ -49,7 +51,7 @@ body {
   background-color: var(--bg-deep);
   color: var(--text-primary);
   font-family: var(--font-body);
-  font-size: 16px;
+  font-size: 1rem;
   line-height: 1.7;
   min-height: 100vh;
   overflow-x: hidden;
