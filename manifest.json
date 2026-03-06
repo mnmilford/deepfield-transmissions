@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-03-06-zoho-ecosystem",
+      "title": "The Zoho Ecosystem in 2026: Bootstrapped Giant, Homegrown LLM, and the Deluge Ceiling",
+      "date": "2026-03-06",
+      "summary": "Zoho quietly built their own LLM, India just became their #2 market, and the Deluge scripting language is still the ceiling every developer hits — here's what that means for builders and consultants.",
+      "location": {
+        "city": "Chennai",
+        "country": "India",
+        "neighborhood": "Nungambakkam",
+        "hotel": "The Park Chennai",
+        "coords": "13.0569° N, 80.2425° E"
+      },
+      "background": "backgrounds/2026-03-06-chennai.png"
+    },
+    {
       "slug": "2026-03-06-agentic-ai-systems",
       "title": "Agentic AI Systems & Autonomous Agent Frameworks",
       "date": "2026-03-06",
