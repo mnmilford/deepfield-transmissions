@@ -3,7 +3,7 @@
 // ============================================
 
 const MANIFEST_URL = 'manifest.json';
-const RESEARCH_BASE = 'research/';
+const RESEARCH_BASE = "research/";
 
 let manifest = null;
 let currentSlug = null;
@@ -17,7 +17,7 @@ async function init() {
     if (!res.ok) throw new Error('No manifest');
     manifest = await res.json();
 
-    updateDispatchCount(manifest.entries.length);
+    updateTransmissionCount(manifest.entries.length);
     renderSidebar(manifest.entries);
 
     const hash = window.location.hash.slice(1);
@@ -31,8 +31,8 @@ async function init() {
   }
 }
 
-function updateDispatchCount(n) {
-  document.getElementById('dispatch-count').textContent = n;
+function updateTransmissionCount(n) {
+  document.getElementById('transmission-count').textContent = n;
 }
 
 // ---- Background ----
@@ -78,7 +78,7 @@ function showLocationBanner(entry) {
 function renderSidebar(entries) {
   const list = document.getElementById('entry-list');
   if (!entries || entries.length === 0) {
-    list.innerHTML = '<div class="empty-state">No dispatches yet.<br/>The explorer is still in the field.</div>';
+    list.innerHTML = '<div class="empty-state">No transmissions yet.<br/>The explorer is still in the field.</div>';
     return;
   }
   list.innerHTML = entries.map(e => `
@@ -117,7 +117,7 @@ async function loadEntry(slug) {
   const bodyEl = document.getElementById('entry-body');
   const dateEl = document.getElementById('entry-date-display');
 
-  bodyEl.innerHTML = '<div class="loading-state" style="padding:2rem;text-align:center">Retrieving dispatch from the field...</div>';
+  bodyEl.innerHTML = '<div class="loading-state" style="padding:2rem;text-align:center">Receiving transmission...</div>';
   if (entry) dateEl.textContent = formatDate(entry.date);
 
   try {
@@ -130,8 +130,8 @@ async function loadEntry(slug) {
     bodyEl.innerHTML = `
       <div style="text-align:center;padding:3rem;color:var(--text-muted)">
         <div style="font-size:3rem;margin-bottom:1rem">🗺️</div>
-        <p style="font-family:var(--font-display);font-size:1.2rem;color:var(--cyan)">Dispatch Not Found</p>
-        <p>This field report appears to have been lost at sea.</p>
+        <p style="font-family:var(--font-display);font-size:1.2rem;color:var(--cyan)">Transmission Lost</p>
+        <p>This transmission appears lost in the void.</p>
       </div>`;
   }
 }
@@ -160,9 +160,9 @@ window.addEventListener('hashchange', () => {
 
 // ---- Utilities ----
 function showEmptyState() {
-  document.getElementById('dispatch-count').textContent = '0';
+  document.getElementById('transmission-count').textContent = '0';
   document.getElementById('entry-list').innerHTML =
-    '<div class="empty-state">No dispatches yet.<br/>The explorer is still in the field.</div>';
+    '<div class="empty-state">No transmissions yet.<br/>The explorer is still in the field.</div>';
 }
 
 function formatDate(d) {
