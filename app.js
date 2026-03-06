@@ -34,29 +34,89 @@ const PHRASES = [
 function startTypewriter() {
   const el = document.getElementById('typewriter');
   if (!el) return;
-  let phraseIdx = Math.floor(Math.random() * PHRASES.length);
-  let charIdx = 0;
-  let deleting = false;
-  let pauseTicks = 0;
 
-  function tick() {
-    const phrase = PHRASES[phraseIdx];
-    if (pauseTicks > 0) { pauseTicks--; setTimeout(tick, 80); return; }
-    if (!deleting) {
-      el.textContent = phrase.slice(0, ++charIdx);
-      if (charIdx === phrase.length) { deleting = true; pauseTicks = 28; setTimeout(tick, 80); }
-      else setTimeout(tick, 52 + Math.random() * 30);
-    } else {
-      el.textContent = phrase.slice(0, --charIdx);
-      if (charIdx === 0) {
-        deleting = false;
-        phraseIdx = (phraseIdx + 1) % PHRASES.length;
-        pauseTicks = 6;
-        setTimeout(tick, 80);
-      } else setTimeout(tick, 28 + Math.random() * 15);
-    }
+  // Adjacent keys for realistic typos
+  const adjacentKeys = {
+    a:'sq',b:'vgn',c:'xvd',d:'sfe',e:'wrd',f:'dge',g:'fth',h:'gjy',i:'uko',
+    j:'hkn',k:'jlm',l:'k',m:'nk',n:'bmh',o:'ip',p:'o',q:'wa',r:'et',
+    s:'ad',t:'ry',u:'yi',v:'bc',w:'qe',x:'zc',y:'tu',z:'x'
+  };
+
+  function typo(ch) {
+    const opts = adjacentKeys[ch.toLowerCase()];
+    if (!opts) return ch + '?';
+    return opts[Math.floor(Math.random() * opts.length)];
   }
-  tick();
+
+  let phraseIdx = Math.floor(Math.random() * PHRASES.length);
+
+  function typePhrase() {
+    const phrase = PHRASES[phraseIdx];
+    let built = '';
+    let i = 0;
+    // Decide which positions get a typo (0-2 mistakes, 25% chance each char up to 2)
+    const mistakePositions = new Set();
+    for (let p = 0; p < phrase.length && mistakePositions.size < 2; p++) {
+      if (Math.random() < 0.04) mistakePositions.add(p);
+    }
+
+    function typeNext() {
+      if (i >= phrase.length) {
+        // Phrase fully typed — dwell 30-60s then erase
+        const dwell = 30000 + Math.random() * 30000;
+        setTimeout(erasePhrase, dwell);
+        return;
+      }
+
+      const correctChar = phrase[i];
+
+      if (mistakePositions.has(i)) {
+        // Type the wrong char
+        const wrongChar = typo(correctChar);
+        built += wrongChar;
+        el.textContent = built;
+        // Pause, then realize mistake and backspace
+        setTimeout(() => {
+          built = built.slice(0, -1);
+          el.textContent = built;
+          // Small pause after backspace, then type correct char
+          setTimeout(() => {
+            built += correctChar;
+            el.textContent = built;
+            i++;
+            setTimeout(typeNext, 90 + Math.random() * 60);
+          }, 120 + Math.random() * 80);
+        }, 180 + Math.random() * 150);
+      } else {
+        built += correctChar;
+        el.textContent = built;
+        i++;
+        // Natural typing rhythm — slight pauses after spaces/punctuation
+        const isBreak = ' .,!?-'.includes(correctChar);
+        const delay = isBreak
+          ? 160 + Math.random() * 120
+          : 85 + Math.random() * 55;
+        setTimeout(typeNext, delay);
+      }
+    }
+
+    function erasePhrase() {
+      if (built.length === 0) {
+        // Move to next phrase, pause briefly before starting
+        phraseIdx = (phraseIdx + 1) % PHRASES.length;
+        setTimeout(typePhrase, 600 + Math.random() * 400);
+        return;
+      }
+      built = built.slice(0, -1);
+      el.textContent = built;
+      setTimeout(erasePhrase, 40 + Math.random() * 25);
+    }
+
+    typeNext();
+  }
+
+  // Initial delay before first phrase appears
+  setTimeout(typePhrase, 1200);
 }
 
 
