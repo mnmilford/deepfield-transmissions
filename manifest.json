@@ -1,20 +1,6 @@
 {
   "entries": [
     {
-      "slug": "2026-03-06-hemp-cbd-retail-market",
-      "title": "Hemp / CBD retail market trends & regulatory landscape",
-      "date": "2026-03-06",
-      "summary": "Dispatch scaffold filed from Amsterdam on Hemp / CBD retail market trends & regulatory landscape.",
-      "location": {
-        "city": "Amsterdam",
-        "country": "Netherlands",
-        "neighborhood": "Jordaan",
-        "hotel": "Mr. Jordaan",
-        "coords": "52.3703\u00b0 N, 4.8800\u00b0 E"
-      },
-      "background": "backgrounds/2026-03-06-amsterdam.png"
-    },
-    {
       "slug": "2026-03-06-zoho-ecosystem",
       "title": "The Zoho Ecosystem in 2026: Bootstrapped Giant, Homegrown LLM, and the Deluge Ceiling",
       "date": "2026-03-06",
