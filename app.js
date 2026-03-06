@@ -276,7 +276,13 @@ async function loadEntry(slug) {
     const res = await fetch(RESEARCH_BASE + slug + '.md?t=' + Date.now());
     if (!res.ok) throw new Error('Not found');
     const text = await res.text();
-    bodyEl.innerHTML = marked.parse(text) + buildSignoff(entry);
+    // Replace [[ig:URL]] tokens with Instagram embed HTML
+    const processedText = text.replace(/\[\[ig:(https?:\/\/[^\]]+)\]\]/g, (_, url) =>
+      `\n\n<div class="ig-embed-wrapper"><blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="${url}" data-instgrm-version="14" style="background:#0a0e1a;border:1px solid #00e5ff;border-radius:4px;box-shadow:0 0 20px rgba(0,229,255,0.15);margin:1.5rem auto;max-width:540px;min-width:280px;width:calc(100% - 2px);"></blockquote></div>\n\n`
+    );
+    bodyEl.innerHTML = marked.parse(processedText) + buildSignoff(entry);
+    // Re-process any IG embeds injected into the DOM
+    if (window.instgrm?.Embeds) window.instgrm.Embeds.process();
     document.querySelector('.content-panel').scrollTo(0, 0);
   } catch (e) {
     bodyEl.innerHTML = `
