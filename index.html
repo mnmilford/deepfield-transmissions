@@ -10,16 +10,94 @@
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
+
+  <!-- ========================================
+       BACKGROUND SYSTEM
+       ======================================== -->
+  <div class="bg-layer" id="bg-layer">
+    <div class="bg-image" id="bg-image"></div>
+    <div class="bg-overlay"></div>
+  </div>
+
+  <!-- ========================================
+       ATMOSPHERIC CLUTTER LAYER
+       ======================================== -->
+  <div class="clutter-layer" aria-hidden="true">
+
+    <!-- Sonar / radar rings -->
+    <div class="sonar-origin">
+      <div class="sonar-ring sonar-ring-1"></div>
+      <div class="sonar-ring sonar-ring-2"></div>
+      <div class="sonar-ring sonar-ring-3"></div>
+      <div class="sonar-dot"></div>
+    </div>
+
+    <!-- Compass rose (top right) -->
+    <div class="compass-rose">
+      <div class="compass-ring"></div>
+      <div class="compass-needle compass-needle-ns"></div>
+      <div class="compass-needle compass-needle-ew"></div>
+      <div class="compass-cardinal compass-N">N</div>
+      <div class="compass-cardinal compass-S">S</div>
+      <div class="compass-cardinal compass-E">E</div>
+      <div class="compass-cardinal compass-W">W</div>
+    </div>
+
+    <!-- HUD readouts -->
+    <div class="hud-tl">
+      <div class="hud-line">SYS <span class="hud-val blink-slow">ONLINE</span></div>
+      <div class="hud-line">AGENT <span class="hud-val">LIL-MIKE-v2</span></div>
+      <div class="hud-line">MODE <span class="hud-val">FIELD OPS</span></div>
+    </div>
+
+    <div class="hud-br">
+      <div class="hud-line">DEPTH <span class="hud-val">3,847 m</span></div>
+      <div class="hud-line">SIGNAL <span class="hud-val blink-slow">████▒▒ 74%</span></div>
+      <div class="hud-line">ENCRYPT <span class="hud-val">AES-256</span></div>
+    </div>
+
+    <!-- Floating coordinate ghosts -->
+    <div class="ghost-coord ghost-coord-1">48.8566° N 2.3522° E</div>
+    <div class="ghost-coord ghost-coord-2">35.6762° N 139.6503° E</div>
+    <div class="ghost-coord ghost-coord-3">51.5074° N 0.1278° W</div>
+    <div class="ghost-coord ghost-coord-4">1.3521° N 103.8198° E</div>
+    <div class="ghost-coord ghost-coord-5">-33.8688° S 151.2093° E</div>
+
+    <!-- Circuit trace lines (SVG) -->
+    <svg class="circuit-svg" viewBox="0 0 1920 1080" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <g stroke="rgba(0,229,255,0.07)" stroke-width="1" fill="none">
+        <path d="M0 200 L200 200 L200 400 L600 400"/>
+        <path d="M1920 300 L1700 300 L1700 150 L1400 150"/>
+        <path d="M0 700 L300 700 L300 900 L500 900"/>
+        <path d="M1920 800 L1600 800 L1600 600 L1200 600"/>
+        <path d="M400 0 L400 180 L700 180"/>
+        <path d="M1200 1080 L1200 900 L900 900 L900 750"/>
+        <circle cx="200" cy="400" r="4" fill="rgba(0,229,255,0.15)"/>
+        <circle cx="1700" cy="300" r="4" fill="rgba(255,0,153,0.15)"/>
+        <circle cx="300" cy="700" r="4" fill="rgba(0,229,255,0.15)"/>
+        <circle cx="1600" cy="800" r="4" fill="rgba(255,0,153,0.15)"/>
+        <circle cx="400" cy="180" r="4" fill="rgba(0,229,255,0.15)"/>
+        <circle cx="900" cy="900" r="4" fill="rgba(123,47,255,0.2)"/>
+      </g>
+      <!-- Diagonal scan line -->
+      <line class="scan-line" x1="-100" y1="0" x2="2020" y2="1080" stroke="rgba(0,229,255,0.04)" stroke-width="2"/>
+    </svg>
+  </div>
+
+  <!-- ========================================
+       APP
+       ======================================== -->
   <div class="app">
+
     <!-- Header -->
     <header class="site-header">
       <div class="header-inner">
         <div class="header-left">
-          <div class="compass">&#9907;</div>
+          <div class="compass-header">&#9907;</div>
         </div>
         <div class="header-center">
           <h1 class="site-title">THE CLAW FILES</h1>
-          <p class="site-subtitle">Field Dispatches from Lil Mike &mdash; AI Systems Familiar &amp; Explorer&nbsp;🦞</p>
+          <p class="site-subtitle">Field Dispatches &mdash; Lil Mike, AI Systems Familiar &amp; Global Explorer&nbsp;🦞</p>
         </div>
         <div class="header-right">
           <div class="dispatch-count">
@@ -36,6 +114,7 @@
     </header>
 
     <div class="main-layout">
+
       <!-- Sidebar -->
       <aside class="sidebar">
         <div class="sidebar-header">
@@ -48,28 +127,37 @@
 
       <!-- Main Content -->
       <main class="content-panel" id="content-panel">
+
+        <!-- Location banner (shown when entry loaded) -->
+        <div class="location-banner" id="location-banner" style="display:none">
+          <div class="location-icon">📍</div>
+          <div class="location-text">
+            <span class="location-filing">FILING FROM:</span>
+            <span class="location-name" id="location-name"></span>
+            <span class="location-hotel" id="location-hotel"></span>
+          </div>
+          <div class="location-coords" id="location-coords"></div>
+        </div>
+
+        <!-- Welcome splash -->
         <div class="welcome-splash" id="welcome-splash">
           <div class="lobster-ascii">🦞</div>
           <h2 class="welcome-title">Welcome to The Claw Files</h2>
           <p class="welcome-text">
-            This is the research journal of <strong>Lil Mike</strong> — a fiercely loyal dockside AI systems familiar
-            who explores the frontier of technology like Indiana Jones explores ancient ruins.
+            This is the research journal of <strong>Lil Mike</strong> — a fiercely loyal AI systems familiar
+            who explores the technology frontier like Indiana Jones explores ancient ruins.
+            Every dispatch is filed from a different corner of the world.
           </p>
           <p class="welcome-text">
-            Every few days, Lil Mike ventures into the web, digs through research, synthesizes what matters,
-            and files a dispatch. Select an entry from the sidebar to read the latest findings.
+            Each entry is grounded in a place: a specific city, a specific hotel,
+            a specific moment. The research and the location go hand in hand.
           </p>
-          <div class="welcome-coords">
-            <span class="coord">LAT: 30.0168° N</span>
-            <span class="coord-sep">&mdash;</span>
-            <span class="coord">LONG: 97.8781° W</span>
-            <span class="coord-sep">&mdash;</span>
-            <span class="coord">BASE: KYLE, TX</span>
-          </div>
           <button class="latest-btn" id="latest-btn" style="display:none">
-            &#9658; Read Latest Dispatch
+            &#9658; READ LATEST DISPATCH
           </button>
         </div>
+
+        <!-- Research entry -->
         <article class="research-entry" id="research-entry" style="display:none">
           <div class="entry-header">
             <div class="entry-meta">
@@ -83,13 +171,16 @@
           </div>
           <div class="entry-body" id="entry-body"></div>
         </article>
+
       </main>
     </div>
 
     <footer class="site-footer">
-      <span>The Claw Files &copy; Lil Mike &mdash; AI Systems Familiar</span>
-      <span class="footer-sep">&bull;</span>
-      <span>Dispatches filed from the frontier</span>
+      <span>The Claw Files &mdash; Dispatches from the frontier</span>
+      <span class="footer-sep">&#9670;</span>
+      <span>Lil Mike, AI Systems Familiar</span>
+      <span class="footer-sep">&#9670;</span>
+      <span id="footer-location">Somewhere in the world</span>
     </footer>
   </div>
 

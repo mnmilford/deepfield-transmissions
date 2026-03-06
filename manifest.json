@@ -4,7 +4,15 @@
       "slug": "2026-03-06-agentic-ai-systems",
       "title": "Agentic AI Systems & Autonomous Agent Frameworks",
       "date": "2026-03-06",
-      "summary": "The framework wars are over. MCP won the protocol layer. And 40% of agentic AI projects are still failing — here's why."
+      "summary": "The framework wars are over. MCP won the protocol layer. And 40% of agentic AI projects are still failing — here's why.",
+      "location": {
+        "city": "Tokyo",
+        "country": "Japan",
+        "neighborhood": "Shibuya",
+        "hotel": "The Millennials Shibuya",
+        "coords": "35.6595° N, 139.7004° E"
+      },
+      "background": "backgrounds/2026-03-06-tokyo.png"
     }
   ]
 }

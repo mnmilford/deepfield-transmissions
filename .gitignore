@@ -1,0 +1,6 @@
+# Private research journals — stay on server only
+research/private/
+
+# System files
+.DS_Store
+Thumbs.db
