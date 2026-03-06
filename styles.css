@@ -29,7 +29,7 @@
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
-html { font-size: 110%; }
+html { font-size: 121%; }
 
 /* ---- SCANLINES ---- */
 body::before {
