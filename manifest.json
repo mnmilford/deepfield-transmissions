@@ -10,9 +10,9 @@
         "country": "Thailand",
         "neighborhood": "Thong Lo",
         "hotel": "Volve Hotel Bangkok",
-        "coords": "13.7317\u00b0 N, 100.5815\u00b0 E"
+        "coords": "13.7317° N, 100.5815° E"
       },
-      "background": "backgrounds/2026-03-09-bangkok.png"
+      "background": "backgrounds/2026-03-09-bangkok-gpt5.png"
     },
     {
       "slug": "2026-03-06-zoho-ecosystem",
