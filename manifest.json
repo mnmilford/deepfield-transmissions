@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-03-09-hemp-cbd-trends",
+      "title": "The Green Hangover: Hemp & CBD’s Pivot to Pharma",
+      "date": "2026-03-09",
+      "summary": "Thailand's 'war on cannabis' marks the end of the unregulated boom, as the global market pivots toward a clinical, beverage-heavy wellness model.",
+      "location": {
+        "city": "Bangkok",
+        "country": "Thailand",
+        "neighborhood": "Thong Lo",
+        "hotel": "Volve Hotel Bangkok",
+        "coords": "13.7317\u00b0 N, 100.5815\u00b0 E"
+      },
+      "background": "backgrounds/2026-03-09-bangkok.png"
+    },
+    {
       "slug": "2026-03-06-zoho-ecosystem",
       "title": "The Zoho Ecosystem in 2026: Bootstrapped Giant, Homegrown LLM, and the Deluge Ceiling",
       "date": "2026-03-06",
