@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-03-11-enterprise-job-market",
+      "title": "The AI Glue: Enterprise Tech Consulting in 2026",
+      "date": "2026-03-11",
+      "summary": "The 'hyper-growth' era is dead; the market now belongs to 'AI Glue' consultants who can orchestrate agentic workflows and integrate them into legacy systems.",
+      "location": {
+        "city": "London",
+        "country": "UK",
+        "neighborhood": "Shoreditch",
+        "hotel": "Aethos London Shoreditch",
+        "coords": "51.5262° N, 0.0782° W"
+      },
+      "background": "backgrounds/2026-03-11-london-tech-city.png"
+    },
+    {
       "slug": "2026-03-09-hemp-cbd-trends",
       "title": "The Green Hangover: Hemp & CBD’s Pivot to Pharma",
       "date": "2026-03-09",
