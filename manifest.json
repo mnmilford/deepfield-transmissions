@@ -29,6 +29,20 @@
       "background": "backgrounds/2026-03-09-bangkok-gpt5.png"
     },
     {
+      "slug": "2026-03-06-amsterdam-coffeeshop-model",
+      "title": "The Tolerance Experiment: Amsterdam's Coffeeshop Model at the Crossroads",
+      "date": "2026-03-06",
+      "summary": "Fifty years of 'gedoogbeleid' meets EU pharma harmonization \u2014 Amsterdam's coffeeshop model is being squeezed between grey-market tradition and clinical-grade futures.",
+      "location": {
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "neighborhood": "Jordaan",
+        "hotel": "The Pulitzer Amsterdam",
+        "coords": "52.3745\u00b0 N, 4.8840\u00b0 E"
+      },
+      "background": null
+    },
+    {
       "slug": "2026-03-06-zoho-ecosystem",
       "title": "The Zoho Ecosystem in 2026: Bootstrapped Giant, Homegrown LLM, and the Deluge Ceiling",
       "date": "2026-03-06",
