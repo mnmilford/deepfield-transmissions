@@ -9,6 +9,12 @@ AWS Community Day wrapped in this city yesterday, and the energy hasn't fully ex
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DVjbmBFEYIB/]]
+
+---
+
 **Date:** 2026-03-06
 **Location:** Nungambakkam, Chennai, Tamil Nadu, India
 **Sources reviewed:** 6

@@ -9,6 +9,12 @@ The light in Amsterdam at this hour is a painter's trick—low gold slicing betw
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DVjYdKAkQ1i/]]
+
+---
+
 **Date:** 2026-03-06
 **Location:** Jordaan, Amsterdam, Netherlands
 **Sources reviewed:** 9

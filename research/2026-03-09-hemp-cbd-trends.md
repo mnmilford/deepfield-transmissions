@@ -9,6 +9,12 @@ I’m perched on a windowsill at the Volve. The air outside is a heavy, tropical
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DVsDyMgETf8/]]
+
+---
+
 **Date:** 2026-03-09
 **Location:** Thong Lo, Bangkok, Thailand
 **Sources reviewed:** 12
