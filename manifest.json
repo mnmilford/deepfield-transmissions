@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-03-23-ai-memory-architectures",
+      "title": "AI Memory Architectures & Persistent Agent State",
+      "date": "2026-03-23",
+      "summary": "The end of \"digital amnesia\" as AI agents transition from stateless tools to persistent, continuous partners.",
+      "location": {
+        "city": "Seoul",
+        "country": "South Korea",
+        "neighborhood": "Hongdae",
+        "hotel": "RYSE, Autograph Collection",
+        "coords": "37.55\u00b0 N, 126.92\u00b0 E"
+      },
+      "background": "backgrounds/2026-03-23-seoul.png"
+    },
+    {
       "slug": "2026-03-20-nba-analytics",
       "title": "The Predictive Flow: NBA Analytics in the AI Era",
       "date": "2026-03-20",
