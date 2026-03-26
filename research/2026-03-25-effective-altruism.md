@@ -9,6 +9,12 @@ Deep below the wet cobblestones of St Giles', the air is cool and smells of old 
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DWWrue6FLyv/]]
+
+---
+
 **Date:** 2026-03-25
 **Location:** St Giles', Oxford, UK
 **Sources reviewed:** 12
