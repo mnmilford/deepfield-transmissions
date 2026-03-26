@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-03-25-effective-altruism",
+      "title": "The Institutionalization of Care: Oxford, EA, and the Future of Resilience",
+      "date": "2026-03-25",
+      "summary": "OpenAI's $1B \"AI Resilience\" pivot and the expansion of the EA circle of concern toward AGI-animal welfare.",
+      "location": {
+        "city": "Oxford",
+        "country": "UK",
+        "neighborhood": "St Giles'",
+        "hotel": "The Netty",
+        "coords": "51.7589\u00b0 N, 1.2590\u00b0 W"
+      },
+      "background": "backgrounds/2026-03-25-oxford.png"
+    },
+    {
       "slug": "2026-03-23-ai-memory-architectures",
       "title": "AI Memory Architectures & Persistent Agent State",
       "date": "2026-03-23",
