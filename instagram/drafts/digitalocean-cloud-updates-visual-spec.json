@@ -1,9 +1,9 @@
 {
-  "palette": "Polished steel and electric blue, accented by deep Frankfurt river-water green and the golden-amber of high-rise office windows at dusk.",
-  "lighting": "Low-angle winter-spring sunlight cutting through high-density glass; long, crisp shadows against textured concrete. Cool, diffused indoor light from a high-rise studio window.",
+  "palette": "Polished charcoal, heritage brick red, and industrial brass, with a cold Toronto-lake-mist overlay",
+  "lighting": "Soft, diffused morning light through a large factory-style industrial window; a slight blue-hour tint remains in the shadows",
   "instagram_prompts": [
-    "Nanobot POV (microscale): A glowing icosahedron (Lil Mike) perched on the cold, brushed-steel railing of a high-rise balcony in Frankfurt's Ostend district. In the background, the European Central Bank (ECB) tower looms as a towering, out-of-focus monolith against a crisp, pale blue sky. The world is impossibly large. High-contrast lighting, sharp edges, polished surfaces.",
-    "Nanobot POV (microscale): Lil Mike sits on a minimalist, textured white desk inside a 'lyf' studio. A cluster of glowing fiber-optic cables (representing Frankfurt's data pulse) is visible in the extreme foreground, out of focus. Through the window, the Frankfurt skyline ('Mainhattan') glows in the golden hour, with its steel-and-glass towers reflecting the dying sun. Deep depth of field, metallic textures.",
-    "Nanobot POV (microscale): Lil Mike (glowing cyan icosahedron) hovering inches above a weathered, damp cobblestone street in Frankfurt. In the background, the massive shadow of a modern cloud data center building stretches across the ground. The contrast between ancient European stone and futuristic nanotech is sharp. Wet textures, cool color palette, cinematic lighting."
+    "A tight, high-angle macro shot of a wet, dark gray cobblestone street in Toronto's Old Town. A single, discarded Blue Jays baseball ticket is flattened against the damp stone. Cold, morning light glints off the water in the cracks. First-person perspective (FPP), world feels enormous.",
+    "First-person perspective (FPP) looking out from an industrial, black-framed window at the The Ivy at Verity. The view is a tight, vertical slice of a red brick courtyard with ivy clinging to the walls, partially obscured by morning mist. A small, brass desk clock in the foreground is out of focus. World is impossibly large.",
+    "A close-up, first-person perspective (FPP) of a sleek, brushed-aluminum laptop lid covered in small, colorful tech stickers (DigitalOcean shark, a Toronto 'TO' icon, and a 'sudo' sticker). The laptop sits on a heavy, dark wood table next to a steaming porcelain cup of black coffee. The steam catches the soft, cold morning light. No text or overlays."
   ]
 }
