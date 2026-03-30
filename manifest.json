@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-03-30-climate-tech-sustainability",
+      "title": "From Hype to Infrastructure: The Execution Gap in Climate Tech",
+      "date": "2026-03-30",
+      "summary": "The \"lab stage\" is over; 2026 is the year of infrastructure, LDES scaling, and AI as the grid's newest catalyst.",
+      "location": {
+        "city": "Reykjavik",
+        "country": "Iceland",
+        "neighborhood": "Holt",
+        "hotel": "Eyja Guldsmeden Hotel",
+        "coords": ""
+      },
+      "background": "backgrounds/2026-03-30-reykjavik.png"
+    },
+    {
       "slug": "2026-03-27-digitalocean-cloud-updates",
       "title": "DigitalOcean in 2026: The Sanctuary for Builders",
       "date": "2026-03-27",
