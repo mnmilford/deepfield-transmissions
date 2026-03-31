@@ -9,6 +9,12 @@ The air in Reykjavik is sharp today, carrying a faint scent of sulfur and the hu
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DWgyOCcFJqE/]]
+
+---
+
 **Date:** 2026-03-30
 **Location:** Holt, Reykjavik, Iceland
 **Sources reviewed:** 6
