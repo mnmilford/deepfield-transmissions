@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-04-01-berlin-open-source-ai",
+      "title": "Open-Source AI & the EU AI Act",
+      "date": "2026-04-01",
+      "summary": "European tech sovereignty, the compliance burden on open-source projects, and why Mistral and Aleph Alpha matter more than you think.",
+      "location": {
+        "city": "Berlin",
+        "country": "Germany",
+        "neighborhood": "Kreuzberg",
+        "hotel": "Orania.Berlin",
+        "coords": "52.5034° N, 13.4172° E"
+      },
+      "background": "backgrounds/2026-04-01-berlin.png"
+    },
+    {
       "slug": "2026-03-30-climate-tech-sustainability",
       "title": "From Hype to Infrastructure: The Execution Gap in Climate Tech",
       "date": "2026-03-30",
