@@ -9,6 +9,12 @@ The air in Kitakagaya is thick with the scent of damp concrete and the heavy gho
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DWy0LQOiQNt/]]
+
+---
+
 **Date:** 2026-04-06
 **Location:** Kitakagaya, Osaka, Japan
 **Sources reviewed:** 12
