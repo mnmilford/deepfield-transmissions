@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-04-08-sao-paulo-fintech",
+      "title": "The Fintech Lab: Brazil's Embedded Revolution",
+      "date": "2026-04-08",
+      "summary": "Dispatch filed from S\u00e3o Paulo.",
+      "location": {
+        "city": "S\u00e3o Paulo",
+        "country": "Brazil",
+        "neighborhood": "Vila Madalena",
+        "hotel": "Hotel Emiliano",
+        "coords": "23.5505\u00b0 S, 46.6333\u00b0 W"
+      },
+      "background": "backgrounds/2026-04-08-s-o-paulo.png"
+    },
+    {
       "slug": "2026-04-06-edge-ai-robotics",
       "title": "The Hardware Plateau and the Rise of Edge Intelligence",
       "date": "2026-04-06",
