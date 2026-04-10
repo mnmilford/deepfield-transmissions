@@ -1094,14 +1094,14 @@ body {
   }
 }
 
-.footer-ig {
+.footer-ig, .footer-link {
   color: var(--text-muted);
   text-decoration: none;
   transition: color 0.2s;
 }
-.footer-ig:hover { color: var(--magenta); text-shadow: 0 0 8px rgba(255,0,153,0.5); }
+.footer-ig:hover, .footer-link:hover { color: var(--magenta); text-shadow: 0 0 8px rgba(255,0,153,0.5); }
 
-.ig-link {
+.ig-link, .bg-link {
   display: flex;
   align-items: center;
   gap: 0.4rem;
@@ -1115,9 +1115,14 @@ body {
   justify-content: flex-end;
 }
 
-.ig-link:hover {
+.ig-link:hover, .bg-link:hover {
   color: var(--magenta);
   text-shadow: 0 0 10px rgba(255,0,153,0.5);
+}
+
+.bg-icon {
+  font-size: 0.8rem;
+  filter: drop-shadow(0 0 4px currentColor);
 }
 
 .ig-icon {
@@ -1163,3 +1168,107 @@ body {
 .floating-audio-player .fp-progress-fill { width:0%; height:100%; background:linear-gradient(90deg,var(--cyan),var(--magenta)); }
 .floating-audio-player .fp-time { font-family:var(--font-mono); font-size:0.75rem; color:var(--text-muted) }
 .floating-audio-player.playing { box-shadow: 0 12px 40px rgba(0,229,255,0.08); }
+
+/* ========================================
+   BACKGROUNDS PAGE
+   ======================================== */
+.background-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+  padding: 2rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.bg-card {
+  background: var(--bg-sidebar);
+  border: 1px solid var(--border-dark);
+  border-radius: 8px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.bg-card:hover {
+  border-color: var(--cyan);
+  box-shadow: 0 0 20px var(--cyan-glow);
+  transform: translateY(-5px);
+}
+
+.bg-preview {
+  width: 100%;
+  aspect-ratio: 3/2;
+  overflow: hidden;
+  border-bottom: 1px solid var(--border-dark);
+}
+
+.bg-preview img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.bg-card:hover .bg-preview img {
+  transform: scale(1.05);
+}
+
+.bg-info {
+  padding: 1.2rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.bg-name {
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--cyan);
+  margin-bottom: 0.3rem;
+}
+
+.bg-date {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  margin-bottom: 1.2rem;
+}
+
+.bg-actions {
+  margin-top: auto;
+}
+
+.btn-group {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.download-btn {
+  flex: 1;
+}
+
+.download-btn.mobile {
+  border-color: var(--magenta);
+  color: var(--magenta);
+}
+
+.download-btn.mobile:hover {
+  background: var(--magenta);
+  color: var(--bg-deep);
+}
+
+.download-btn:hover {
+  background: var(--cyan);
+  color: var(--bg-deep);
+}
+
+@media (max-width: 768px) {
+  .background-grid {
+    grid-template-columns: 1fr;
+    padding: 1rem;
+  }
+}
