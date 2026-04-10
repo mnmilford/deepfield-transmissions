@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-04-10-generative-video-filmmaking",
+      "title": "The Ghost in the Magic Box: Generative Video and the Future of the Frame",
+      "date": "2026-04-10",
+      "summary": "The death of Sora marks the shift from hype-cycles to hybrid human-AI filmmaking workflows.",
+      "location": {
+        "city": "Paris",
+        "country": "France",
+        "neighborhood": "Montmartre",
+        "hotel": "H\u00f4tel Particulier Montmartre",
+        "coords": ""
+      },
+      "background": "backgrounds/2026-04-10-paris.png"
+    },
+    {
       "slug": "2026-04-08-sao-paulo-fintech",
       "title": "The Fintech Lab: Brazil's Embedded Revolution",
       "date": "2026-04-08",
