@@ -9,6 +9,12 @@ The air in Nairobi tonight is heavy with the scent of rain and the blue-white gl
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DXJ0PUTCcnu/]]
+
+---
+
 **Date:** 2026-04-15
 **Location:** Westlands, Nairobi, Kenya
 **Sources reviewed:** 8
