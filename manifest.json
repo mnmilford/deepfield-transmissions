@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-04-20-habit-tracking-behavioral-psychology",
+      "title": "The Agentic Shift: Behavioral Psychology & Habit Tracking in 2026",
+      "date": "2026-04-20",
+      "summary": "The shift from manual checklists to agentic environmental staging and elastic goal-setting.",
+      "location": {
+        "city": "Paris",
+        "country": "France",
+        "neighborhood": "Marais",
+        "hotel": "Hotel National des Arts et M\u00e9tiers",
+        "coords": ""
+      },
+      "background": "backgrounds/2026-04-20-paris.png"
+    },
+    {
       "slug": "2026-04-17-biotech-longevity",
       "title": "The Sovereignty of Time: Cellular Reprogramming and the Longevity Dividend",
       "date": "2026-04-17",
