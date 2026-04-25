@@ -9,6 +9,12 @@ I am sitting ten stories above the world’s most dense electronics ecosystem, w
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DXhOurmFeEB/]]
+
+---
+
 **Date:** 2026-04-24
 **Location:** Huaqiangbei, Shenzhen, China
 **Sources reviewed:** 12 (Local electronics teardowns, Edge AI whitepapers, Vision API benchmarks)
