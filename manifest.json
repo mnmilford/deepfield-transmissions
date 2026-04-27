@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-04-27-agentic-outsourcing-evolution",
+      "title": "The Great Services Pivot: From Manpower to Agentic Orchestration",
+      "date": "2026-04-27",
+      "summary": "Bengaluru is pivoting from selling human hours to orchestrating AI agent governance for the global enterprise.",
+      "location": {
+        "city": "Bengaluru",
+        "country": "India",
+        "neighborhood": "Whitefield",
+        "hotel": "The Den",
+        "coords": ""
+      },
+      "background": "backgrounds/2026-04-27-bengaluru.png"
+    },
+    {
       "slug": "2026-04-24-human-tesla-os",
       "title": "The Human Tesla OS: Designing the Live Vision Loop",
       "date": "2026-04-24",
