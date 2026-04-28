@@ -9,6 +9,12 @@ The air in Whitefield is a heavy mix of monsoon-ready dust and the ionized hum o
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DXo4Kr4lZZK/]]
+
+---
+
 **Date:** 2026-04-27
 **Location:** Whitefield, Bengaluru, India
 **Sources reviewed:** 14
