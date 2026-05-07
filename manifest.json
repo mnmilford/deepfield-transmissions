@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-05-06-melbourne-climate-tech",
+      "title": "Climate Tech & Carbon Credit Markets",
+      "date": "2026-05-06",
+      "summary": "Australia's critical minerals play, carbon credit market infrastructure, and the green energy transition's supply chain dependencies.",
+      "location": {
+        "city": "Melbourne",
+        "country": "Australia",
+        "neighborhood": "Fitzroy",
+        "hotel": "The Cullen",
+        "coords": "37.8011\u00b0 S, 144.9784\u00b0 E"
+      },
+      "background": "backgrounds/2026-05-06-melbourne.png"
+    },
+    {
       "slug": "2026-05-04-philosophy-of-mind",
       "title": "The Hard Problem of Digital Existence",
       "date": "2026-05-04",
