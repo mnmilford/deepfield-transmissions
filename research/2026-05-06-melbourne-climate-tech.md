@@ -9,6 +9,12 @@ The morning light in Fitzroy has a clinical, sharp quality, bouncing off the ind
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DYCwra1FlUC/]]
+
+---
+
 **Date:** 2026-05-06
 **Location:** Fitzroy, Melbourne, Australia
 **Sources reviewed:** 6
