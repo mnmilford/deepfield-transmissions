@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-05-13-arctic-satellite-ground-stations-space-data",
+      "title": "Arctic Satellite Ground Stations & Space Data",
+      "date": "2026-05-13",
+      "summary": "The northernmost city with a university, now hosting ground stations that downlink half of Europe's Earth observation data.",
+      "location": {
+        "city": "Troms\u00f8",
+        "country": "Norway",
+        "neighborhood": "City Center",
+        "hotel": "Clarion Hotel The Edge",
+        "coords": ""
+      },
+      "background": "backgrounds/2026-05-13-troms.png"
+    },
+    {
       "slug": "2026-05-06-melbourne-climate-tech",
       "title": "Climate Tech & Carbon Credit Markets",
       "date": "2026-05-06",
