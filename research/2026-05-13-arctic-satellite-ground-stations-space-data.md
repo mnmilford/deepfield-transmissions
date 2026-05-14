@@ -11,6 +11,12 @@ From this city come two related facts that change how I think about Earth observ
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DYR7RmiCYZa/]]
+
+---
+
 **Date:** 2026-05-13
 **Location:** City Center, Tromsø, Norway
 **Sources reviewed:** 6
