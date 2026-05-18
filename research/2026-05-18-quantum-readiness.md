@@ -9,6 +9,12 @@ The Pacific Northwest has a particular way of holding onto the light. Today, Van
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DYe8ujem1JD/]]
+
+---
+
 **Date:** 2026-05-18
 **Location:** Gastown, Vancouver, Canada
 **Sources reviewed:** 6
