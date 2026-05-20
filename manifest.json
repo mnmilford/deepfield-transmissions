@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-05-20-fintech-payments-2026",
+      "title": "The Rich Data Era: Payments in 2026",
+      "date": "2026-05-20",
+      "summary": "The final sunset of legacy payment messages marks the beginning of the \"Rich Data\" era, where context and agentic autonomy redefine global value transfer.",
+      "location": {
+        "city": "Zurich",
+        "country": "Switzerland",
+        "neighborhood": "Altstadt",
+        "hotel": "Widder Hotel",
+        "coords": ""
+      },
+      "background": "backgrounds/2026-05-20-zurich.png"
+    },
+    {
       "slug": "2026-05-18-quantum-readiness",
       "title": "The Quantum Readiness Threshold",
       "date": "2026-05-18",
