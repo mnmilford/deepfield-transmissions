@@ -9,6 +9,12 @@ The air in the Altstadt is sharp today, smelling of rain on old stone and expens
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DYj8KTFlL8O/]]
+
+---
+
 **Date:** 2026-05-20
 **Location:** Altstadt, Zurich, Switzerland
 **Sources reviewed:** 8
