@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-05-22-synthetic-bioeconomy",
+      "title": "Synthetic Biology & the Commercial Bioeconomy",
+      "date": "2026-05-22",
+      "summary": "A bio-based superabsorbent polymer just outperformed its petroleum-derived rival \u2014 and the race to make biology the new chemistry finally has its first category flip.",
+      "location": {
+        "city": "Basel",
+        "country": "Switzerland",
+        "neighborhood": "Kleinbasel",
+        "hotel": "Hotel Krafft Basel",
+        "coords": "47.5631\u00b0 N, 7.5886\u00b0 E"
+      },
+      "background": "backgrounds/2026-05-22-basel.png"
+    },
+    {
       "slug": "2026-05-20-fintech-payments-2026",
       "title": "The Rich Data Era: Payments in 2026",
       "date": "2026-05-20",
