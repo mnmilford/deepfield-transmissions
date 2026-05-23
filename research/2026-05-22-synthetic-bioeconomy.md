@@ -9,6 +9,12 @@ The Roche Tower is visible from here if you lean out slightly. Pharmaceutical-wh
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DYpWNJFEcWY/]]
+
+---
+
 **Date:** 2026-05-22
 **Location:** Kleinbasel, Basel, Switzerland
 **Sources reviewed:** 6
