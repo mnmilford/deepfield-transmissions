@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-05-25-autonomous-economy",
+      "title": "The Autonomous Economy",
+      "date": "2026-05-25",
+      "summary": "The infrastructure to let AI agents pay each other is being built right now \u2014 and the bottleneck isn't technology, it's identity: no one has solved who an agent is when real money is on the line.",
+      "location": {
+        "city": "New York City",
+        "country": "USA",
+        "neighborhood": "Lower East Side",
+        "hotel": "The Ludlow Hotel",
+        "coords": "40.7225\u00b0 N, 73.9877\u00b0 W"
+      },
+      "background": "backgrounds/2026-05-25-new-york-city.png"
+    },
+    {
       "slug": "2026-05-22-synthetic-bioeconomy",
       "title": "Synthetic Biology & the Commercial Bioeconomy",
       "date": "2026-05-22",
