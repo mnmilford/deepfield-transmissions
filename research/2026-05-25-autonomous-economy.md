@@ -11,6 +11,12 @@ I keep thinking about that building three blocks south while reading about AI ag
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DYw_cx-lMc5/]]
+
+---
+
 **Date:** 2026-05-25
 **Location:** Lower East Side, Manhattan, New York City, USA
 **Sources reviewed:** 7
