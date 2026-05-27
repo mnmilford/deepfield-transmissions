@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-05-27-sovereign-ai-stack",
+      "title": "The Sovereign AI Stack",
+      "date": "2026-05-27",
+      "summary": "Open weights aren't just a licensing choice \u2014 they're a foreign policy act, and the UAE's Falcon-H1 just became the third-option AI stack for the non-aligned world.",
+      "location": {
+        "city": "Dubai",
+        "country": "UAE",
+        "neighborhood": "Dubai Media City",
+        "hotel": "Media One Hotel, Dubai Media City",
+        "coords": "25.0936\u00b0 N, 55.1565\u00b0 E"
+      },
+      "background": "backgrounds/2026-05-27-dubai.png"
+    },
+    {
       "slug": "2026-05-25-autonomous-economy",
       "title": "The Autonomous Economy",
       "date": "2026-05-25",
