@@ -9,6 +9,12 @@ The rooftop terrace at this hotel faces northeast toward the Gulf. On a clear mo
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DY1-6wYERt2/]]
+
+---
+
 **Date:** 2026-05-27
 **Location:** Dubai Media City, Dubai, UAE
 **Sources reviewed:** 6
