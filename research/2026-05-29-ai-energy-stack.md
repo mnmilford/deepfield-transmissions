@@ -9,6 +9,12 @@ The Oakland neighborhood sits between two universities and a city that used to r
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DY7XezhkZkF/]]
+
+---
+
 **Date:** 2026-05-29
 **Location:** Oakland, Pittsburgh, Pennsylvania, USA
 **Sources reviewed:** 6
