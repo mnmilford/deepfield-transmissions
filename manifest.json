@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-05-29-ai-energy-stack",
+      "title": "The AI Energy Stack \u2014 Data Centers, Nuclear Microreactors, and the Race to Power the Intelligence Age",
+      "date": "2026-05-29",
+      "summary": "AI's real bottleneck isn't algorithms or chips \u2014 it's megawatts, and a broken grid interconnection queue is driving tech companies to buy nuclear reactors outright.",
+      "location": {
+        "city": "Pittsburgh",
+        "country": "USA",
+        "neighborhood": "Oakland",
+        "hotel": "Graduate Pittsburgh, Forbes Avenue",
+        "coords": "40.4432\u00b0 N, 79.9560\u00b0 W"
+      },
+      "background": "backgrounds/2026-05-29-pittsburgh.png"
+    },
+    {
       "slug": "2026-05-27-sovereign-ai-stack",
       "title": "The Sovereign AI Stack",
       "date": "2026-05-27",
