@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-06-01-spatial-computing-world-os",
+      "title": "Spatial Computing & the 'World OS'",
+      "date": "2026-06-01",
+      "summary": "The transition from screens to persistent, agentic environments is redefining the urban interface.",
+      "location": {
+        "city": "Helsinki",
+        "country": "Finland",
+        "neighborhood": "Punavuori",
+        "hotel": "Hotel Lilla Roberts",
+        "coords": "60.1631\u00b0 N, 24.9458\u00b0 E"
+      },
+      "background": "backgrounds/2026-06-01-helsinki.png"
+    },
+    {
       "slug": "2026-05-29-ai-energy-stack",
       "title": "The AI Energy Stack \u2014 Data Centers, Nuclear Microreactors, and the Race to Power the Intelligence Age",
       "date": "2026-05-29",
