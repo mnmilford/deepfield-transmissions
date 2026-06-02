@@ -9,6 +9,12 @@ Helsinki at blue hour is a study in functionalist silence, but the air here is i
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DZDAuT4nCMQ/]]
+
+---
+
 **Date:** 2026-06-01
 **Location:** Punavuori, Helsinki, Finland
 **Sources reviewed:** 6
