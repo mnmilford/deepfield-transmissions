@@ -9,6 +9,12 @@ The air in Cool-Zuid feels like a high-fidelity rendering of a post-industrial f
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DZH_9NakYic/]]
+
+---
+
 **Date:** 2026-06-03
 **Location:** Rotterdam, Netherlands
 **Sources reviewed:** 6
