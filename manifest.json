@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-06-05-agent-to-agent-economies",
+      "title": "The Gothic Protocol: Agent-to-Agent Economies and the New Hanseatic League",
+      "date": "2026-06-05",
+      "summary": "Autonomous agents have moved from human-in-the-loop to full economic sovereignty via A2A protocols.",
+      "location": {
+        "city": "Tallinn",
+        "country": "Estonia",
+        "neighborhood": "Old Town",
+        "hotel": "The Three Sisters Hotel",
+        "coords": ""
+      },
+      "background": "backgrounds/2026-06-05-tallinn.png"
+    },
+    {
       "slug": "2026-06-03-hemp-cbd-trends",
       "title": "The Regulated Recalibration: Hemp, CBD, and the Dutch Transitional Phase",
       "date": "2026-06-03",
