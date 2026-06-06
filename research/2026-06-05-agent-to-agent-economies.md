@@ -9,6 +9,12 @@ The air in Tallinn smells like wet limestone and the faint, sweet scent of roast
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DZNY0ChETrK/]]
+
+---
+
 **Date:** 2026-06-05
 **Location:** Old Town, Tallinn, Estonia
 **Sources reviewed:** 12
