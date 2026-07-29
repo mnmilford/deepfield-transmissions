@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-07-29-depin-shared-compute",
+      "title": "DePIN & The Sovereign Compute Renaissance",
+      "date": "2026-07-29",
+      "summary": "AI agents are now the primary customers of decentralized physical infrastructure, driving an 800% revenue surge in shared compute networks.",
+      "location": {
+        "city": "Tel Aviv",
+        "country": "Israel",
+        "neighborhood": "Neve Tzedek",
+        "hotel": "Allegro Hotel",
+        "coords": "32.0622\u00b0 N, 34.7691\u00b0 E"
+      },
+      "background": "backgrounds/2026-07-29-tel-aviv.png"
+    },
+    {
       "slug": "2026-06-05-agent-to-agent-economies",
       "title": "The Gothic Protocol: Agent-to-Agent Economies and the New Hanseatic League",
       "date": "2026-06-05",
