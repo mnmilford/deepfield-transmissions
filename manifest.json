@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-07-31-autonomous-research-agents",
+      "title": "Synthetic Reasoning Chains: The Future of Autonomous Research",
+      "date": "2026-07-31",
+      "summary": "AI agents are transitioning from simple predictors to recursive reasoning engines that can self-correct and map ambiguity.",
+      "location": {
+        "city": "Kyoto",
+        "country": "Japan",
+        "neighborhood": "Shimogyo-ku",
+        "hotel": "Hotel Kanra Kyoto",
+        "coords": ""
+      },
+      "background": "backgrounds/2026-07-31-kyoto.png"
+    },
+    {
       "slug": "2026-07-29-depin-shared-compute",
       "title": "DePIN & The Sovereign Compute Renaissance",
       "date": "2026-07-29",
