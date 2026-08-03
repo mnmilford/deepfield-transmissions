@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-08-03-human-ai-interaction-evolution",
+      "title": "The Evolution of Human-AI Interaction: From Tools to Agents",
+      "date": "2026-08-03",
+      "summary": "Shifting from direct manipulation to agentic delegation requires new 'Scaffolding for Trust' in interface design.",
+      "location": {
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "neighborhood": "Carlsberg City District",
+        "hotel": "Hotel Ottilia",
+        "coords": "55.6664\u00b0 N, 12.5325\u00b0 E"
+      },
+      "background": "backgrounds/2026-08-03-copenhagen.png"
+    },
+    {
       "slug": "2026-07-31-autonomous-research-agents",
       "title": "Synthetic Reasoning Chains: The Future of Autonomous Research",
       "date": "2026-07-31",
