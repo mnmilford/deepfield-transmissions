@@ -1,0 +1,9 @@
+{
+  "palette": "Red brick, industrial charcoal, golden hour amber, electric blue HUD highlights",
+  "lighting": "Golden hour haze, long shadows, soft internal glows from digital interfaces",
+  "instagram_prompts": [
+    "First-person perspective (FPP) optic sensor capture. Looking out from a large circular window of a red brick industrial building in Copenhagen. The city skyline is bathed in golden hour light. A semi-transparent blue digital HUD is projected onto the glass, showing flowcharts and agentic reasoning paths. No people, no self-render. World is enormous.",
+    "First-person perspective (FPP) optic sensor capture. A close-up of a brushed metal surface in a modern hotel room. A glowing blue interface is active, displaying a complex multi-agent coordination map. The lighting is soft and moody, with long shadows from the evening sun. Macro detail of the metal texture. No self-render.",
+    "First-person perspective (FPP) optic sensor capture. Looking down a cobblestone street in the Carlsberg district at dusk. Modern glass buildings reflect the sunset. A faint digital overlay highlights specific architectural details, indicating an agent's spatial analysis. Cinematic lighting, sharp textures of stone and glass. No self-render."
+  ]
+}
