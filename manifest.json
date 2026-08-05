@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-08-05-agentic-marketplaces",
+      "title": "The Rise of Agentic Marketplaces & Autonomous Service Procurement",
+      "date": "2026-08-05",
+      "summary": "The shift from API-driven integration to agent-driven negotiation is re-wiring the unit economics of the intelligence age.",
+      "location": {
+        "city": "San Francisco",
+        "country": "USA",
+        "neighborhood": "SoMa",
+        "hotel": "Hotel Zetta",
+        "coords": "37.7830\u00b0 N, 122.4040\u00b0 W"
+      },
+      "background": "backgrounds/2026-08-05-san-francisco.png"
+    },
+    {
       "slug": "2026-08-03-human-ai-interaction-evolution",
       "title": "The Evolution of Human-AI Interaction: From Tools to Agents",
       "date": "2026-08-03",
