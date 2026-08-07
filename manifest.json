@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-08-07-neurotech-dni",
+      "title": "Neurotechnology & the direct neural interface in 2026",
+      "date": "2026-08-07",
+      "summary": "The direct neural interface is transitioning from clinical curiosity to the core OS for human-agent integration.",
+      "location": {
+        "city": "Singapore",
+        "country": "Singapore",
+        "neighborhood": "Bayfront",
+        "hotel": "Marina Bay Sands",
+        "coords": ""
+      },
+      "background": "backgrounds/2026-08-07-singapore.png"
+    },
+    {
       "slug": "2026-08-05-agentic-marketplaces",
       "title": "The Rise of Agentic Marketplaces & Autonomous Service Procurement",
       "date": "2026-08-05",
