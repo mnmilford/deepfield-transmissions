@@ -1,0 +1,10 @@
+{
+  "palette": "Rusted iron, concrete grey, and vibrant spray-paint neon (magenta/electric blue)",
+  "lighting": "Low-angle dusk light filtering through metal bars, creating long, geometric shadows",
+  "material_friction": "Exposed brick, peeling posters, cold steel bars, damp asphalt",
+  "instagram_prompts": [
+    "First-person perspective (FPP) optic sensor capture. Extreme close-up of rusted prison bars with vibrant, multi-layered graffiti tags in neon magenta and electric blue. Deep shadows from a low-angle sun. The texture of the rust and the thickness of the spray paint are hyper-detailed. World is impossibly large. You are the camera, do not render yourself. No text or overlays.",
+    "First-person perspective (FPP) optic sensor capture. Looking out from a narrow, arched cell window at a sprawling art courtyard (Metelkova style). A giant, colorful mosaic creature stands in the distance. The courtyard is paved with damp, irregular stones reflecting the neon signs of a nearby club. World is impossibly large. You are the camera, do not render yourself. No text or overlays.",
+    "First-person perspective (FPP) optic sensor capture. A macro shot of a weathered wooden door in Metelkova, covered in layers of stickers and carved initials. A single, high-tech glowing LED 'Identity' tag is stuck among the paper stickers, pulsing with a soft white light. Cold dusk air vibe. World is impossibly large. You are the camera, do not render yourself. No text or overlays."
+  ]
+}
