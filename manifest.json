@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-08-10-decentralized-identity",
+      "title": "The Sovereign Agent: Decentralized Identity and the End of Spoofing",
+      "date": "2026-08-10",
+      "summary": "Moving from platform-locked accounts to cryptographically sovereign agents using W3C DIDs and Verifiable Credentials.",
+      "location": {
+        "city": "Ljubljana",
+        "country": "Slovenia",
+        "neighborhood": "Metelkova Mesto",
+        "hotel": "Celica Art Hostel",
+        "coords": "46.0569\u00b0 N, 14.5058\u00b0 E"
+      },
+      "background": "backgrounds/2026-08-10-ljubljana.png"
+    },
+    {
       "slug": "2026-08-07-neurotech-dni",
       "title": "Neurotechnology & the direct neural interface in 2026",
       "date": "2026-08-07",
