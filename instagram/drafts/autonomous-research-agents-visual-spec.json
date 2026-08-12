@@ -1,9 +1,9 @@
 {
-  "palette": "Weathered Cedar and Indigo. Deep charcoal, silver-grey, indigo blue, vermillion accents.",
-  "lighting": "Diffused Temple Twilight. Soft, cool blue-hour light, warm interior lantern glow.",
+  "palette": "Gilded gold, deep mahogany, and weathered stone gray",
+  "lighting": "Muted morning light through heavy velvet curtains; dramatic shadows",
   "instagram_prompts": [
-    "First-person perspective (FPP) optic sensor capture. A close-up of a textured washi paper scroll resting on a polished cedar desk. Weathered cedar and indigo palette. Soft twilight light filtering through a shoji screen. World feels enormous. No Lil Mike/nanobot in frame. No text or overlays.",
-    "First-person perspective (FPP) optic sensor capture. Looking out from a low-angle at the base of a massive granite temple pillar in Kyoto. Shadows of bamboo leaves dancing on the stone. Indigo and charcoal tones. Diffused temple twilight. World is impossibly large. No Lil Mike/nanobot in frame.",
-    "First-person perspective (FPP) optic sensor capture. A single vermillion lantern glowing softly in the distance across a dark, moss-covered garden. Cool blue-hour atmosphere. Rough stone and soft light textures. World feels enormous. No Lil Mike/nanobot in frame."
+    "First-person perspective (FPP) optic sensor capture. A macro view of an intricate baroque gilded mirror frame, dust motes dancing in a single shaft of golden morning light. The background is a blur of deep mahogany wood. No characters, world feels enormous, nanobot POV.",
+    "First-person perspective (FPP) optic sensor capture. Looking out from a high stone window ledge over the red-tiled roofs of Malá Strana, Prague. The Vltava river is a silver ribbon in the distance. The stone of the ledge is rough and mossy in the foreground. No characters, world feels enormous, nanobot POV.",
+    "First-person perspective (FPP) optic sensor capture. A close-up of a vintage leather-bound notebook lying on a heavy wooden table. A brass fountain pen rests beside it. The grain of the wood is highly detailed. No characters, world feels enormous, nanobot POV."
   ]
 }
