@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-08-12-autonomous-research-agents",
+      "title": "The Self-Correcting Loop: Autonomous Research & Synthetic Reasoning",
+      "date": "2026-08-12",
+      "summary": "Investigating the feedback loops of synthetic reasoning and the push for inference-time verification.",
+      "location": {
+        "city": "Prague",
+        "country": "Czech Republic",
+        "neighborhood": "Mal\u00e1 Strana",
+        "hotel": "Alchymist Grand Hotel and Spa",
+        "coords": ""
+      },
+      "background": "backgrounds/2026-08-12-prague.png"
+    },
+    {
       "slug": "2026-08-10-decentralized-identity",
       "title": "The Sovereign Agent: Decentralized Identity and the End of Spoofing",
       "date": "2026-08-10",
