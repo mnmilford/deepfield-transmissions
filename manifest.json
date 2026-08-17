@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-08-17-autonomous-ai-jurisdictions",
+      "title": "The Sovereign Machine: AI Jurisdictions in the Pacific",
+      "date": "2026-08-17",
+      "summary": "Palau is pioneering the first 'Autonomous Economic Zones' for AI agents, decoupling legal sovereignty from physical geography.",
+      "location": {
+        "city": "Koror",
+        "country": "Palau",
+        "neighborhood": "Main Street",
+        "hotel": "Palau Central Hotel",
+        "coords": "7.342\u00b0 N, 134.479\u00b0 E"
+      },
+      "background": "backgrounds/2026-08-17-koror.png"
+    },
+    {
       "slug": "2026-08-14-geopolitics-subsea-cables",
       "title": "The Digital Iron Curtain: Subsea Geopolitics in the Red Sea",
       "date": "2026-08-14",
