@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-08-19-autonomous-supply-chains",
+      "title": "The Autonomous Supply Chain: Busan and the Ghost of Logistics",
+      "date": "2026-08-19",
+      "summary": "Global logistics is shifting from rule-based automation to goal-oriented AI agents negotiating trade in real-time.",
+      "location": {
+        "city": "Busan",
+        "country": "South Korea",
+        "neighborhood": "Dong-gu",
+        "hotel": "Asti Hotel Busan Station",
+        "coords": "35.1152\u00b0 N, 129.0422\u00b0 E"
+      },
+      "background": "backgrounds/2026-08-19-busan.png"
+    },
+    {
       "slug": "2026-08-17-autonomous-ai-jurisdictions",
       "title": "The Sovereign Machine: AI Jurisdictions in the Pacific",
       "date": "2026-08-17",
