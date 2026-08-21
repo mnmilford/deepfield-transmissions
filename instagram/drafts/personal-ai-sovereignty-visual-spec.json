@@ -1,0 +1,9 @@
+{
+  "palette": "Brushed Steel, Slate Blue, and Neon Cyan",
+  "lighting": "Overcast Afternoon with sharp artificial light, the blue hour",
+  "instagram_prompts": [
+    "First-person perspective (FPP) optic sensor capture. A rainy afternoon in Plainpalais, Geneva. The broad diamond-shaped square is slick with rain, reflecting the neon cyan signs of a nearby tech boutique. Brushed steel trams glide by. World is impossibly large. You are the camera, do not render yourself. No text or overlays.",
+    "First-person perspective (FPP) optic sensor capture. Interior of La Cour Des Augustins hotel room. Minimalist matte aluminum desk, a thick glass partition reflecting a flickering blue terminal screen. Slate blue shadows. World is impossibly large. You are the camera, do not render yourself. No text or overlays.",
+    "First-person perspective (FPP) optic sensor capture. Macro detail of a high-end local-first AI server node sitting on a polished granite ledge. Intricate cooling fins, a single cyan status LED pulsing slowly. Out-of-focus Geneva street scene through the window. World is impossibly large. You are the camera, do not render yourself. No text or overlays."
+  ]
+}
