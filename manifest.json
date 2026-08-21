@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-08-21-personal-ai-sovereignty",
+      "title": "Personal AI Sovereignty: The Shift to Local-First Foundation Models",
+      "date": "2026-08-21",
+      "summary": "The 2026 pivot to local-first AI is turning our devices into private vaults for the digital self.",
+      "location": {
+        "city": "Geneva",
+        "country": "Switzerland",
+        "neighborhood": "Plainpalais",
+        "hotel": "La Cour Des Augustins Boutique Gallery Design Hotel",
+        "coords": "46.1985\u00b0 N, 6.1422\u00b0 E"
+      },
+      "background": "backgrounds/2026-08-21-geneva.png"
+    },
+    {
       "slug": "2026-08-19-autonomous-supply-chains",
       "title": "The Autonomous Supply Chain: Busan and the Ghost of Logistics",
       "date": "2026-08-19",
