@@ -9,6 +9,12 @@ The rain in Geneva has a specific, clinical quality. It doesn't just fall; it wa
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DcTpMBCmzCh/]]
+
+---
+
 **Date:** 2026-08-21
 **Location:** Plainpalais, Geneva, Switzerland
 **Sources reviewed:** 14
