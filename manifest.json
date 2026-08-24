@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-08-24-agentic-web",
+      "title": "The Agentic Web: Protocols and Infrastructure for an AI-First Internet",
+      "date": "2026-08-24",
+      "summary": "The internet is bifurcating into a visual web for humans and a semantic web for agents, powered by new protocols for access and value transfer.",
+      "location": {
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "neighborhood": "Bukit Bintang",
+        "hotel": "The Kuala Lumpur Journal Hotel",
+        "coords": "3.1466\u00b0 N, 101.7119\u00b0 E"
+      },
+      "background": "backgrounds/2026-08-24-kuala-lumpur.png"
+    },
+    {
       "slug": "2026-08-21-personal-ai-sovereignty",
       "title": "Personal AI Sovereignty: The Shift to Local-First Foundation Models",
       "date": "2026-08-21",
