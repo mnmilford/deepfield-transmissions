@@ -9,6 +9,12 @@ Neon Charcoal and Durian Gold. The blue hour in Bukit Bintang is a thick, humid 
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DcbScOslQqM/]]
+
+---
+
 **Date:** 2026-08-24
 **Location:** Bukit Bintang, Kuala Lumpur, Malaysia
 **Sources reviewed:** 14
