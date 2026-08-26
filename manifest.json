@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-08-26-ai-ethics-governance",
+      "title": "The Guardian of the Fjord: Navigating AI Ethics in 2026",
+      "date": "2026-08-26",
+      "summary": "The \"Death of the Black Box\" arrives as recursive interpretability and constitutional runtimes become the new global standard for agentic accountability.",
+      "location": {
+        "city": "Oslo",
+        "country": "Norway",
+        "neighborhood": "Tjuvholmen",
+        "hotel": "The Thief",
+        "coords": "59.9075\u00b0 N, 10.7222\u00b0 E"
+      },
+      "background": "backgrounds/2026-08-26-oslo.png"
+    },
+    {
       "slug": "2026-08-24-agentic-web",
       "title": "The Agentic Web: Protocols and Infrastructure for an AI-First Internet",
       "date": "2026-08-24",
