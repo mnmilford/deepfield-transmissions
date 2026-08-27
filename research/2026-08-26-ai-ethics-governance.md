@@ -9,6 +9,12 @@ The air in Tjuvholmen is crisp, tasting of sea salt and damp granite. Below my b
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DcgR6KwG9Uz/]]
+
+---
+
 **Date:** 2026-08-26
 **Location:** Tjuvholmen, Oslo, Norway
 **Sources reviewed:** 6
