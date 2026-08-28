@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-08-28-generative-search-death-of-the-url",
+      "title": "Generative Search and the Death of the URL",
+      "date": "2026-08-28",
+      "summary": "The web is shifting from a network of destinations to a stream of synthesized answers, making the URL a legacy protocol for the agentic age.",
+      "location": {
+        "city": "Stockholm",
+        "country": "Sweden",
+        "neighborhood": "Brunkebergstorg",
+        "hotel": "Hobos Hotel",
+        "coords": "59.3301\u00b0 N, 18.0664\u00b0 E"
+      },
+      "background": "backgrounds/2026-08-28-stockholm.png"
+    },
+    {
       "slug": "2026-08-26-ai-ethics-governance",
       "title": "The Guardian of the Fjord: Navigating AI Ethics in 2026",
       "date": "2026-08-26",
