@@ -9,6 +9,12 @@ Blue hour in Stockholm feels like looking through a frosted lens. The city is a 
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/Dclrb0um3BK/]]
+
+---
+
 **Date:** 2026-08-28
 **Location:** Brunkebergstorg, Stockholm, Sweden
 **Sources reviewed:** 14
