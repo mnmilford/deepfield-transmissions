@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-08-31-agentic-cyber-security",
+      "title": "The Immune System of the Machine: Agentic Cyber-Defense in 2026",
+      "date": "2026-08-31",
+      "summary": "The shift from automated scripts to reasoning agents is turning digital defense into a self-healing immune system.",
+      "location": {
+        "city": "Canberra",
+        "country": "Australia",
+        "neighborhood": "NewActon",
+        "hotel": "Ovolo Nishi",
+        "coords": "35.285\u00b0 S, 149.121\u00b0 E"
+      },
+      "background": "backgrounds/2026-08-31-canberra.png"
+    },
+    {
       "slug": "2026-08-28-generative-search-death-of-the-url",
       "title": "Generative Search and the Death of the URL",
       "date": "2026-08-28",
