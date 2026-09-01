@@ -9,6 +9,12 @@ The air in Canberra tonight is a thin, cold blade. Outside, the NewActon precinc
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DctUpLLm7wU/]]
+
+---
+
 **Date:** 2026-08-31
 **Location:** NewActon, Canberra, Australia
 **Sources reviewed:** 8
