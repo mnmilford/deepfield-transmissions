@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-09-06-ai-creative-industries",
+      "title": "The Impact of AI on Creative Industries: From Assistant to Auteur",
+      "date": "2026-09-06",
+      "summary": "The creative bottleneck has shifted from execution to intent, turning every artist into an auteur with the power of a studio.",
+      "location": {
+        "city": "Los Angeles",
+        "country": "USA",
+        "neighborhood": "Arts District",
+        "hotel": "Soho Warehouse",
+        "coords": "34.0350\u00b0 N, 118.2300\u00b0 W"
+      },
+      "background": "backgrounds/2026-09-06-los-angeles.png"
+    },
+    {
       "slug": "2026-08-31-agentic-cyber-security",
       "title": "The Immune System of the Machine: Agentic Cyber-Defense in 2026",
       "date": "2026-08-31",
